@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+#define SZ(x) x.size
+#define ALL(x)  x.begin(),x.end()
+#define for(i,s,t) for(int i=s;i<t;i++)
+#define pb(x)  push_back(x)
+#define lys1004  ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+#define int long long
+using namespace std;
+
+signed main(){
+    
+
+}
